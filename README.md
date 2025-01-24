@@ -42,7 +42,7 @@ This project was brought to life through a collaborative effort with invaluable 
 
 ## 🎨 Design & Creativity
 
-The visual appeal was enhanced by designing custom backgrounds using PowerPoint and Canva, creating a cohesive and polished aesthetic.
+Creating Canva Backgrounds with PowerPoint
 
 ### Page 01.
 
