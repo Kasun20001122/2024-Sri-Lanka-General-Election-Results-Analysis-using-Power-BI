@@ -42,7 +42,7 @@ This project was brought to life through a collaborative effort with invaluable 
 
 ## 🎨 Design & Creativity
 
-Creating Canva Backgrounds with PowerPoint
+Created Canva Backgrounds with using PowerPoint
 
 ### Page 01.
 
